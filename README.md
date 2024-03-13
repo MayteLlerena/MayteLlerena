@@ -1,7 +1,16 @@
-### Hi there 👋
 
-<!--
-**MayteLlerena/MayteLlerena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hi](https://github.com/MayteLlerena/MayteLlerena/blob/main/canva%20banner.png)
+
+
+## About me
+
+- 📈 Data Analyst 
+- 🤯 I’m currently learning about Machine Learning skills 
+- 🤓 I am a quick learner
+- 👩‍💻 SQL| PYTHON| GOOGLE COLAB| BIGQUERY|
+- 📊 TABLEAU|POWER BI|LOOKER STUDIO|
+- 📫 How to reach me: yareromerovargas.s8@gmail.com
+- ⛸  I love roller blading. 
 
 Here are some ideas to get you started:
 
