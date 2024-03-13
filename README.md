@@ -24,6 +24,8 @@
 
 ▪️ Google Colab (Python)
 
+▪️ Google Sheets 
+
 ## Visualization tools
 
 ▪️ PowerBI
