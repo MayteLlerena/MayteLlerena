@@ -1,12 +1,9 @@
-<div>
-  <h1 style="float: left;">Hi I'm Mayte 👋</h1>
-  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" style="float: right;" />
+<div align="center">
+  
+<h1 align="center"> Hi, I'm Mayte!
 </div>
-
-
-
-
-
+  
+![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true)
 
 ## About me
 
