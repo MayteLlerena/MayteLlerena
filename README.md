@@ -1,6 +1,6 @@
-<div>
-  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" style="display: inline-block;" />
-  <h1 style="display: inline-block;">Hi I'm Mayte 👋</h1>
+<div style="display: flex; align-items: center;">
+  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" style="margin-right: 20px;" />
+  <h1 style="margin: 0;">Hi I'm Mayte 👋</h1>
 </div>
 
 
