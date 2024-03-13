@@ -8,10 +8,25 @@
 
 ## About me
 
-▪️ 🌱 I’m currently learning ETL.
+▪️ 📚 Siempre estoy en busca de nuevos conocimientos 🤓
 
-▪️ 💬 Ask me about BigQuery (SQL), Google Colab (Python) PowerBI, Looker Studio, Google Sheets.
+▪️ 👩🏻‍🎓 Graduada de Laboratoria.
 
 ▪️ 📫 Para contactarme escríbeme al ➞ maytellerenacastro@gmail.com
 
 ▪️ ⚡ Dato curioso: me encanta experimentar con nuevas técnicas de visualización de datos para hacer que los conocimientos sean más atractivos y comprensibles.
+
+## Skills
+
+▪️ BigQuery (SQL)
+
+▪️ Google Colab (Python)
+
+## Visualization tools
+
+▪️ PowerBI
+
+▪️ Looker Studio
+
+
+
