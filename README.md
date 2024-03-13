@@ -2,8 +2,10 @@
   
 <h1 align="center"> Hi, I'm Mayte!
 </div>
+
+
   
-![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true)
+![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/floreces.png) 
 
 ## About me
 
