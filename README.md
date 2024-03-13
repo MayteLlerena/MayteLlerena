@@ -1,11 +1,8 @@
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" />
-  </div>
-  <div>
-    <h1>Hi I'm Mayte 👋</h1>
-  </div>
+<div>
+  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" style="display: inline-block;" />
+  <h1 style="display: inline-block;">Hi I'm Mayte 👋</h1>
 </div>
+
 
 
 
