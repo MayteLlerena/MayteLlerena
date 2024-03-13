@@ -1,6 +1,8 @@
-<p align="center">
-<img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" /> 
- <p/>
+<p align="right">
+  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" />
+</p>
+
+ 
 
 ## About me
 
