@@ -13,4 +13,4 @@
 
 ▪️ 📫 How to reach me maytellerenacastro@gmail.com
 
-▪️ ⚡ What I like to do: I love to travel
+▪️ ⚡ What I like to do: I love to travel 🛫
