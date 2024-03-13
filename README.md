@@ -10,7 +10,7 @@
 
 ▪️ 📚 Siempre estoy en busca de nuevos conocimientos 🤓
 
-▪️ 👩🏻‍🎓 Graduada de Laboratoria.
+▪️ 👩🏻‍🎓 Analista de datos y diseñadora UX/UI 🎨.
 
 ▪️ 📫 Para contactarme escríbeme al ➞ maytellerenacastro@gmail.com
 
