@@ -1,8 +1,13 @@
-<p align="right">
-  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" />
-</p>
 
- 
+ <div style="display: flex;">
+  <div>
+    <h1 align="center"> Hi I'm Mayte 👋 </h1>
+  </div>
+  <div>
+    <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" />
+  </div>
+</div>
+
 
 ## About me
 
