@@ -8,7 +8,6 @@ Mayte</a></h1>
 </a> 
 
 
-## About me
 
 
 - 📈 I’m currently working on ...
