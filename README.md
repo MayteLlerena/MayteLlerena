@@ -1,9 +1,7 @@
-</div>
-
 ![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/banner.png)
 
 
-## About me
+
 
 - 📈 Data Analyst 
 - 🤯 I’m currently learning about Machine Learning skills 
@@ -13,9 +11,9 @@
 - 📫 How to reach me: yareromerovargas.s8@gmail.com
 - ⛸  I love roller blading. 
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
+- 📈 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
