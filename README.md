@@ -2,11 +2,9 @@
 Mayte</a></h1>
 <h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif">
-</a>
+</a> 
 
 
 
