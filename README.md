@@ -9,7 +9,7 @@
 
 ▪️ 🌱 I’m currently learning ETL.
 
-▪️ 💬 Ask me about BigQuery (SQL), Google Colab (Python) PowerBI, Looker Studio.
+▪️ 💬 Ask me about BigQuery (SQL), Google Colab (Python) PowerBI, Looker Studio, Google Sheets.
 
 ▪️ 📫 How to reach me maytellerenacastro@gmail.com
 
