@@ -1,6 +1,6 @@
 </div>
 
-![Hi](https://github.com/MayteLlerena/MayteLlerena/blob/main/canva%20banner.png)
+![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/banner.png)
 
 
 ## About me
