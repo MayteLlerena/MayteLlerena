@@ -1,10 +1,7 @@
-<div align="left">
-  
-<h1 align="left"> Hi I'm Mayte 👋
+<div>
+  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" style="display: inline-block;" />
+  <h1 style="display: inline-block;">Hi I'm Mayte 👋</h1>
 </div>
-<p align="right">
-  <img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif?raw=true" height="280" />
-</p>
 
 
 
