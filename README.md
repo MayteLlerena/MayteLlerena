@@ -12,6 +12,6 @@
 
 ▪️ 💬 Ask me about BigQuery (SQL), Google Colab (Python) PowerBI, Looker Studio, Google Sheets.
 
-▪️ 📫 How to reach me maytellerenacastro@gmail.com
+▪️ 📫 Para contactarme escríbeme al ➞ maytellerenacastro@gmail.com
 
-▪️ ⚡ What I like to do: I love to travel 🛫
+▪️ ⚡ Dato curioso: me encanta experimentar con nuevas técnicas de visualización de datos para hacer que los conocimientos sean más atractivos y comprensibles.
