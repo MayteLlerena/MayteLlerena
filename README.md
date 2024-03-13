@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Mayte</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif">
+<div align="center">
   
-</a> 
-
+<h1 align="center"> Hi , I'm Mayte <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+  
+![Hi](https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)
 
 
 
