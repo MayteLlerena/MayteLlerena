@@ -12,6 +12,8 @@
 
 ▪️ 👩🏻‍🎓 Analista de datos y diseñadora UX/UI 🎨.
 
+▪️ 💬 Pregúntame sobre cualquier cosa, estaré encantada de ayudarte. 😄
+
 ▪️ 📫 Para contactarme escríbeme al ➞ maytellerenacastro@gmail.com
 
 ▪️ ⚡ Dato curioso: me encanta experimentar con nuevas técnicas de visualización de datos para hacer que los conocimientos sean más atractivos y comprensibles.
