@@ -1,4 +1,6 @@
-![Hi](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/banner.png)
+<p align="center">
+<img alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/girl.gif)?raw=true" height="280" />
+ <p/>
 
 
 
