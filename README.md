@@ -1,7 +1,8 @@
 <h1 align="center"> ¡Bienvenida(o)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/portada.gif" /> 
 
 ## About me
+
+<picture> <img align="right" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/portada.gif" width = 400px></picture>
 
 ▪️ 📚 Siempre estoy en busca de nuevos conocimientos 🤓
 
