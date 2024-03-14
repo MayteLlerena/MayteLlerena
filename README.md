@@ -6,7 +6,7 @@
 
 <p align="left">
 
-</p>
+<br>
 
 ▪️ 📚 Siempre estoy en busca de nuevos conocimientos 🤓
 
@@ -21,6 +21,8 @@
 <br>
 
 ## Skills
+
+<br>
 
 ▪️ BigQuery (SQL)
 
