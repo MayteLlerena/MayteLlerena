@@ -2,7 +2,7 @@
     
 </div> 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/portada.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/portada.gif" />
 
 
 ## About me
