@@ -50,5 +50,8 @@
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
 
 
+![Hi](https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)
+
+
 
 
