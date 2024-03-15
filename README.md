@@ -8,6 +8,7 @@
 
 <p align="left">
 
+<br>
 
 ▪️ 🌱 Actualmente estoy estudiando Python. 📚
 
@@ -24,6 +25,8 @@
 
 
 ## Skills
+
+<br>
 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" tittle="Big-Query" width="40" height="40"/>&nbsp;
 <img src="https://cdn.simpleicons.org/microsoftexcel" tittle="Microsoft-Excel" width="40" height="40"/>&nbsp;
@@ -45,9 +48,19 @@
 ![Citi_Bike](https://raw.githubusercontent.com/MayteLlerena/Citi_Bike/main/Dashboard.png)
 
 
-## Banco "Super Caja" | Riesgo relativo
+## Banco "Super Caja" | Dashboard
 
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
+
+## Amazon sales | Dashboard
+
+![Amazon sales - category](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/Amazon%20-%20category.png)
+
+![Amazon feeling - rating](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/Amazon%20-%20feeling%2C%20rating.png)
+
+![Amazon review - product](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/Amazon%20-%20review%2C%20product.png)
+
+
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/frogs.jpeg" width="100">
