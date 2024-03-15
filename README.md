@@ -36,8 +36,6 @@
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" title="Power-BI" width="40" height="40"/>&nbsp;
 <img src="https://play-lh.googleusercontent.com/lEHoMZRVQkUJynaNLUmG2f6cxHpL7I03afYruxq-wR35JdC7bkf3lvCesynZk3LWcw" tittle="Looker-Studio" width="40" height="40"/>&nbsp;
 
-<br>
-
 ## <h2 align="center"> Explora mis repositorios y descubre lo que estoy construyendo.
 
 </p> 
@@ -45,6 +43,7 @@
 ## Citi Bike | Dashboard 
 
 ![Citi_Bike](https://raw.githubusercontent.com/MayteLlerena/Citi_Bike/main/Dashboard.png)
+
 
 ## Banco "Super Caja" | Riesgo relativo
 
