@@ -49,8 +49,10 @@
 
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/frogs.jpeg" width="100">
+</h2>
 
-![Hi](https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)
 
 
 
