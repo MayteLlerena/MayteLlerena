@@ -10,7 +10,7 @@
 
 <br>
 
-▪️ 🌱 Actualmente estoy estudiando Python. 📚
+▪️ 🌱 Siempre estoy en busca de nuevos aprendizajes y crecimiento personal. 📚
 
 ▪️ 👩🏻‍🎓 Analista de datos y diseñadora UX/UI 🎨.
 
