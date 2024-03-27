@@ -38,6 +38,9 @@
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-plain.svg?plain=1" tittle="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" title="Power-BI" width="40" height="40"/>&nbsp;
 <img src="https://play-lh.googleusercontent.com/lEHoMZRVQkUJynaNLUmG2f6cxHpL7I03afYruxq-wR35JdC7bkf3lvCesynZk3LWcw" tittle="Looker-Studio" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" tittle="ChatGPT" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
 ## <h2 align="center"> Explora mis repositorios y descubre lo que estoy construyendo.
 
