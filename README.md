@@ -55,7 +55,7 @@
 
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
 
-## Amazon sales | Dashboard
+## Amazon sales | Dashboard en PowerBI
 
 ![Amazon sales - category](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/Amazon%20-%20category.png)
 
