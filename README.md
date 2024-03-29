@@ -46,12 +46,12 @@
 
 </p> 
 
-## Citi Bike | Dashboard 
+## Citi Bike | Dashboard en PowerBI
 
 ![Citi_Bike](https://raw.githubusercontent.com/MayteLlerena/Citi_Bike/main/Dashboard.png)
 
 
-## Banco "Super Caja" | Dashboard
+## Banco "Super Caja" | Dashboard en Looker Studio
 
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
 
