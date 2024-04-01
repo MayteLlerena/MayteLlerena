@@ -46,7 +46,7 @@
 
 </p> 
 
-## Citi Bike | Dashboard en PowerBI
+## Citi Bike | Dashboard en Power BI
 
 ![Citi_Bike](https://raw.githubusercontent.com/MayteLlerena/Citi_Bike/main/Dashboard.png)
 
@@ -55,7 +55,7 @@
 
 ![Riesgo Relativo](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/riesgo_relativo.png)
 
-## Amazon sales | Dashboard en PowerBI
+## Amazon sales | Dashboard en Power BI
 
 ![Amazon sales - category](https://raw.githubusercontent.com/MayteLlerena/MayteLlerena/main/Amazon%20-%20category.png)
 
