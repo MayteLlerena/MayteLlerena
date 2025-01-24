@@ -12,7 +12,7 @@
 
 ▪️ 🌱 Siempre estoy en busca de nuevos aprendizajes y crecimiento personal. 📚
 
-▪️ 👩🏻‍🎓 Analista de datos y diseñadora UX/UI 🎨.
+▪️ 👩🏻‍🎓 Analista de datos y Community Manager.
 
 ▪️ 💬 Pregúntame sobre cualquier cosa, estaré encantada de ayudarte. 😄
 
